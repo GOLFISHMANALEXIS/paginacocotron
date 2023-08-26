@@ -1,10 +1,7 @@
 # paginacocotron
 
-este proyecto es para dar a conocer la informacion 
-del proceso tanto creativo como electronico del robot
-para el cocotron 2023 llamado:
-XOLOITZCUINTLE
-EL PERRO
-AZTECA
+En este proyecto, nos proponemos presentar la información relativa al proceso creativo y electrónico detrás del desarrollo del robot destinado al evento Cocotron 2023, al que hemos llamado:
+
+**XOLOITZCUINTLE: El Perro Azteca**
 
 
